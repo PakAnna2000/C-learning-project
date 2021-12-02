@@ -1,0 +1,15 @@
+/home/pakanna/Documents/Csharp/C-learning-project/bin/Debug/net6.0/C-learning-project
+/home/pakanna/Documents/Csharp/C-learning-project/bin/Debug/net6.0/C-learning-project.deps.json
+/home/pakanna/Documents/Csharp/C-learning-project/bin/Debug/net6.0/C-learning-project.runtimeconfig.json
+/home/pakanna/Documents/Csharp/C-learning-project/bin/Debug/net6.0/C-learning-project.dll
+/home/pakanna/Documents/Csharp/C-learning-project/bin/Debug/net6.0/ref/C-learning-project.dll
+/home/pakanna/Documents/Csharp/C-learning-project/bin/Debug/net6.0/C-learning-project.pdb
+/home/pakanna/Documents/Csharp/C-learning-project/obj/Debug/net6.0/C-learning-project.csproj.AssemblyReference.cache
+/home/pakanna/Documents/Csharp/C-learning-project/obj/Debug/net6.0/C-learning-project.GeneratedMSBuildEditorConfig.editorconfig
+/home/pakanna/Documents/Csharp/C-learning-project/obj/Debug/net6.0/C-learning-project.AssemblyInfoInputs.cache
+/home/pakanna/Documents/Csharp/C-learning-project/obj/Debug/net6.0/C-learning-project.AssemblyInfo.cs
+/home/pakanna/Documents/Csharp/C-learning-project/obj/Debug/net6.0/C-learning-project.csproj.CoreCompileInputs.cache
+/home/pakanna/Documents/Csharp/C-learning-project/obj/Debug/net6.0/C-learning-project.dll
+/home/pakanna/Documents/Csharp/C-learning-project/obj/Debug/net6.0/ref/C-learning-project.dll
+/home/pakanna/Documents/Csharp/C-learning-project/obj/Debug/net6.0/C-learning-project.pdb
+/home/pakanna/Documents/Csharp/C-learning-project/obj/Debug/net6.0/C-learning-project.genruntimeconfig.cache
