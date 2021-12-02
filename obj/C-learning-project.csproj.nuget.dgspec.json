@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/pakanna/Documents/Csharp/C-learning-project/C-learning-project.csproj": {}
+  },
+  "projects": {
+    "/home/pakanna/Documents/Csharp/C-learning-project/C-learning-project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pakanna/Documents/Csharp/C-learning-project/C-learning-project.csproj",
+        "projectName": "C-learning-project",
+        "projectPath": "/home/pakanna/Documents/Csharp/C-learning-project/C-learning-project.csproj",
+        "packagesPath": "/home/pakanna/.nuget/packages/",
+        "outputPath": "/home/pakanna/Documents/Csharp/C-learning-project/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pakanna/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
