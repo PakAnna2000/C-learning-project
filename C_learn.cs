@@ -64,7 +64,7 @@ namespace C_learn // Note: actual namespace depends on the project name.
                 }
                 case 2:
                 {
-                    
+                    break;
                 }
                 default: break;
             }
