@@ -13,3 +13,18 @@
 /home/pakanna/Documents/Csharp/C-learning-project/obj/Debug/net6.0/ref/C-learning-project.dll
 /home/pakanna/Documents/Csharp/C-learning-project/obj/Debug/net6.0/C-learning-project.pdb
 /home/pakanna/Documents/Csharp/C-learning-project/obj/Debug/net6.0/C-learning-project.genruntimeconfig.cache
+D:\Microsoft VS Code\projects\C-learning-project\bin\Debug\net6.0\C-learning-project.exe
+D:\Microsoft VS Code\projects\C-learning-project\bin\Debug\net6.0\C-learning-project.deps.json
+D:\Microsoft VS Code\projects\C-learning-project\bin\Debug\net6.0\C-learning-project.runtimeconfig.json
+D:\Microsoft VS Code\projects\C-learning-project\bin\Debug\net6.0\C-learning-project.dll
+D:\Microsoft VS Code\projects\C-learning-project\bin\Debug\net6.0\ref\C-learning-project.dll
+D:\Microsoft VS Code\projects\C-learning-project\bin\Debug\net6.0\C-learning-project.pdb
+D:\Microsoft VS Code\projects\C-learning-project\obj\Debug\net6.0\C-learning-project.csproj.AssemblyReference.cache
+D:\Microsoft VS Code\projects\C-learning-project\obj\Debug\net6.0\C-learning-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft VS Code\projects\C-learning-project\obj\Debug\net6.0\C-learning-project.AssemblyInfoInputs.cache
+D:\Microsoft VS Code\projects\C-learning-project\obj\Debug\net6.0\C-learning-project.AssemblyInfo.cs
+D:\Microsoft VS Code\projects\C-learning-project\obj\Debug\net6.0\C-learning-project.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\projects\C-learning-project\obj\Debug\net6.0\C-learning-project.dll
+D:\Microsoft VS Code\projects\C-learning-project\obj\Debug\net6.0\ref\C-learning-project.dll
+D:\Microsoft VS Code\projects\C-learning-project\obj\Debug\net6.0\C-learning-project.pdb
+D:\Microsoft VS Code\projects\C-learning-project\obj\Debug\net6.0\C-learning-project.genruntimeconfig.cache

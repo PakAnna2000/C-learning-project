@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/pakanna/Documents/Csharp/C-learning-project/C-learning-project.csproj": {}
+    "D:\\Microsoft VS Code\\projects\\C-learning-project\\C-learning-project.csproj": {}
   },
   "projects": {
-    "/home/pakanna/Documents/Csharp/C-learning-project/C-learning-project.csproj": {
+    "D:\\Microsoft VS Code\\projects\\C-learning-project\\C-learning-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pakanna/Documents/Csharp/C-learning-project/C-learning-project.csproj",
+        "projectUniqueName": "D:\\Microsoft VS Code\\projects\\C-learning-project\\C-learning-project.csproj",
         "projectName": "C-learning-project",
-        "projectPath": "/home/pakanna/Documents/Csharp/C-learning-project/C-learning-project.csproj",
-        "packagesPath": "/home/pakanna/.nuget/packages/",
-        "outputPath": "/home/pakanna/Documents/Csharp/C-learning-project/obj/",
+        "projectPath": "D:\\Microsoft VS Code\\projects\\C-learning-project\\C-learning-project.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\Microsoft VS Code\\projects\\C-learning-project\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/pakanna/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
